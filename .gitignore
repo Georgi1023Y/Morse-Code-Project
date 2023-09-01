@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+venv/
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .env file
+.env
+
+# Ignore all files that end in .pyc
+*.pyc
